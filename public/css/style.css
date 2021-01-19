@@ -1,0 +1,48 @@
+
+/* NAVBAR //////// */
+
+.passwd-recovery{
+    font-size: small;
+    padding-top: 10%;
+}
+
+.form-user{
+    padding:1.5%;
+}
+
+/* botones de navbar /////////////////////////////////// */
+
+.btn-iniciarSesion:hover{
+    background-color: rgb(140, 218, 23);
+    color: black;
+}
+
+.btn-crearUsuario:hover{
+    background-color: rgb(140, 218, 23);
+    color: black;
+}
+
+
+
+/* admin index  */
+.btn-agregarLocal:hover{
+    background-color: rgb(140, 218, 23);
+    color: black;
+}
+
+
+
+.tablaLocales{
+    width: 90%;
+    margin: auto;
+}
+
+.containerAdd{
+    width: 90%;
+    margin: auto;
+}
+
+
+.btn-guardarLocal{
+    margin: 0.1%;
+}
